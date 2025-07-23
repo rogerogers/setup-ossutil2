@@ -1,18 +1,13 @@
-name: The name of your action here
-description: Provide a description here
-author: Your name or organization here
+name: setup-ossutil2
+description: aliyun ossutil2 setup action
+author: rogerogers
 
 # Add your action's branding here. This will appear on the GitHub Marketplace.
 branding:
-  icon: heart
-  color: red
+  icon: upload
+  color: purple
 
 # Define your inputs here.
-inputs:
-  milliseconds:
-    description: Your input description here
-    required: true
-    default: '1000'
 
 # Define your outputs here.
 outputs:
